@@ -1,4 +1,4 @@
-namespace Exercise_Exceptions
+namespace Exercise_DelegatesAndGui
 {
     public partial class Form1 : Form
     {
