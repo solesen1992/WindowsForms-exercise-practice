@@ -1,4 +1,4 @@
-﻿namespace WindowsForms_exercise_practice
+﻿namespace Exercise_Exceptions
 {
     partial class Form1
     {

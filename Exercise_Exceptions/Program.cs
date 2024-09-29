@@ -1,10 +1,5 @@
-namespace WindowsForms_exercise_practice
+namespace Exercise_Exceptions
 {
-    /*
-     * A main purpose with this exercise is to practice propagating errors from a lower level to 
-     * the presentation layer (GuiLayer) – where the user are shown an error message. Another purpose 
-     * is of course to get acquainted with error handling in C#.
-     */
     internal static class Program
     {
         /// <summary>
