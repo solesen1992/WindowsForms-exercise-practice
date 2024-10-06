@@ -5,15 +5,17 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise_Exceptions", "Exercise_Exceptions", "{DF19339A-51CF-4914-8F3B-558DF8C423FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Exceptions", "Exercise_Exceptions\Exercise_Exceptions.csproj", "{1C1FF51D-B288-4F6D-B57C-95009DF349E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_Exceptions", "Exercise_Exceptions\Exercise_Exceptions.csproj", "{1C1FF51D-B288-4F6D-B57C-95009DF349E4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise_DelegatesAndGui", "Exercise_DelegatesAndGui", "{F1DE951E-2F54-493C-ACC2-3EDD689A10D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_DelegatesAndGui", "Exercise_DelegatesAndGui\Exercise_DelegatesAndGui.csproj", "{1994BE3C-7040-465E-BBDE-1B5D7AC349FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_DelegatesAndGui_GetData", "Exercise_DelegatesAndGui\Exercise_DelegatesAndGui_GetData.csproj", "{1994BE3C-7040-465E-BBDE-1B5D7AC349FC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise_Delegates_Sort_in_Gui", "Exercise_Delegates_Sort_in_Gui", "{D9B0B1DA-37A3-4265-A550-886D997B4127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Delegates_Sort_in_Gui", "Exercise_Delegates_Sort_in_Gui\Exercise_Delegates_Sort_in_Gui.csproj", "{50B9CBD3-2CB9-4AAD-B62B-E2147B61A77E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise_Delegates_Sort_in_Gui", "Exercise_Delegates_Sort_in_Gui\Exercise_Delegates_Sort_in_Gui.csproj", "{50B9CBD3-2CB9-4AAD-B62B-E2147B61A77E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_DelegatesAndGui_UpdateList", "Exercise_DelegatesAndGui_UpdateList\Exercise_DelegatesAndGui_UpdateList.csproj", "{AA661215-CFE1-4715-8E8A-1C8F072C77CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{50B9CBD3-2CB9-4AAD-B62B-E2147B61A77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50B9CBD3-2CB9-4AAD-B62B-E2147B61A77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50B9CBD3-2CB9-4AAD-B62B-E2147B61A77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA661215-CFE1-4715-8E8A-1C8F072C77CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA661215-CFE1-4715-8E8A-1C8F072C77CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA661215-CFE1-4715-8E8A-1C8F072C77CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA661215-CFE1-4715-8E8A-1C8F072C77CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{1C1FF51D-B288-4F6D-B57C-95009DF349E4} = {DF19339A-51CF-4914-8F3B-558DF8C423FE}
 		{1994BE3C-7040-465E-BBDE-1B5D7AC349FC} = {F1DE951E-2F54-493C-ACC2-3EDD689A10D1}
 		{50B9CBD3-2CB9-4AAD-B62B-E2147B61A77E} = {D9B0B1DA-37A3-4265-A550-886D997B4127}
+		{AA661215-CFE1-4715-8E8A-1C8F072C77CA} = {F1DE951E-2F54-493C-ACC2-3EDD689A10D1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACE4D5A0-9110-4719-8C2D-F5024E58AA9F}
