@@ -25,13 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_DelegatesUseful_CalcIn
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo_NotSoCoolShop", "Demo_NotSoCoolShop", "{0CFD5DB3-9E05-4C64-897D-D70AED48A639}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_NotSoCoolShop.Domain", "Demo_NotSoCoolShop.Domain\Demo_NotSoCoolShop.Domain.csproj", "{C811B93B-C401-4C23-8D71-93186F720F61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_NotSoCoolShop.Domain", "Demo_NotSoCoolShop.Domain\Demo_NotSoCoolShop.Domain.csproj", "{C811B93B-C401-4C23-8D71-93186F720F61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_NotSoCoolShop.BusinessLogic", "Demo_NotSoCoolShop.BusinessLogic\Demo_NotSoCoolShop.BusinessLogic.csproj", "{B51AB4D4-50E6-450B-B833-C0FFB8AF8E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_NotSoCoolShop.BusinessLogic", "Demo_NotSoCoolShop.BusinessLogic\Demo_NotSoCoolShop.BusinessLogic.csproj", "{B51AB4D4-50E6-450B-B833-C0FFB8AF8E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_NotSoCoolShop.DataAccessLayer", "Demo_NotSoCoolShop.DataAccessLayer\Demo_NotSoCoolShop.DataAccessLayer.csproj", "{4BC13B86-A937-4321-A72A-5802096C64ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_NotSoCoolShop.DataAccessLayer", "Demo_NotSoCoolShop.DataAccessLayer\Demo_NotSoCoolShop.DataAccessLayer.csproj", "{4BC13B86-A937-4321-A72A-5802096C64ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_NotSoCoolShop.UserInterface", "Demo_NotSoCoolShop.UserInterface\Demo_NotSoCoolShop.UserInterface.csproj", "{64C74ADB-D7C5-41E5-BCE5-79B9C0F81FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_NotSoCoolShop.UserInterface", "Demo_NotSoCoolShop.UserInterface\Demo_NotSoCoolShop.UserInterface.csproj", "{64C74ADB-D7C5-41E5-BCE5-79B9C0F81FAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise_FidoFitnessClub", "Exercise_FidoFitnessClub", "{01F0DAF7-C555-4990-BBCE-86310BD379D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_FidoFitnessClub", "Exercise_FidoFitnessClub\Exercise_FidoFitnessClub.csproj", "{4837EE71-1AEE-466C-902D-9D3CB900FAB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +83,10 @@ Global
 		{64C74ADB-D7C5-41E5-BCE5-79B9C0F81FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C74ADB-D7C5-41E5-BCE5-79B9C0F81FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C74ADB-D7C5-41E5-BCE5-79B9C0F81FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4837EE71-1AEE-466C-902D-9D3CB900FAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4837EE71-1AEE-466C-902D-9D3CB900FAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4837EE71-1AEE-466C-902D-9D3CB900FAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4837EE71-1AEE-466C-902D-9D3CB900FAB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -94,6 +102,7 @@ Global
 		{B51AB4D4-50E6-450B-B833-C0FFB8AF8E5C} = {0CFD5DB3-9E05-4C64-897D-D70AED48A639}
 		{4BC13B86-A937-4321-A72A-5802096C64ED} = {0CFD5DB3-9E05-4C64-897D-D70AED48A639}
 		{64C74ADB-D7C5-41E5-BCE5-79B9C0F81FAD} = {0CFD5DB3-9E05-4C64-897D-D70AED48A639}
+		{4837EE71-1AEE-466C-902D-9D3CB900FAB2} = {01F0DAF7-C555-4990-BBCE-86310BD379D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ACE4D5A0-9110-4719-8C2D-F5024E58AA9F}
